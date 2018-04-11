@@ -10,4 +10,8 @@ De: Research Information Network, Open Science case studies.
 
 ![De: Reproducible Research in Computational Science](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3383002_nihms382015f1.jpg)
 
-[Open Science to Open Innovation:](https://www.fosteropenscience.eu/node/870)
+
+## ¿Por qué abrir la ciencia?
+
+[Why Open Science De Erin McKiernan](http://whyopenresearch.org/)
+[Open Science to Open Innovation](https://www.fosteropenscience.eu/node/870)
