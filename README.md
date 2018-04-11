@@ -16,3 +16,5 @@ Posibles fuentes para iniciar:
 - [OECD 2015](http://wiki.lib.sun.ac.za/images/0/02/Open-science-oecd.pdf)
 
 - [Open Science Framework -- paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5370619/)
+
+- [Open Science MOOC -- resources](https://opensciencemooc.eu/open-science-resources/)
