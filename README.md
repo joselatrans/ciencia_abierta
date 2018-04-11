@@ -5,17 +5,14 @@ Cursos de Ciencia Abierta / Datos Abiertos CR
 Contenidos: 
 
 - ¿Qué es la ciencia abierta?
-
 - ¿Cuáles elementos del ciclo de investigación pueden ser abiertos?
-
 - ¿Cómo hacer/practicar la ciencia abierta?
-
 - Casos y búsquedas de datos. 
-
 - Creación de perfil en orcid y la lista de predatory journals.
 
-- [Fuente original 1](https://www.slideshare.net/sjDCC/open-science-55575211)
-- [Fuente original 2](https://www.fosteropenscience.eu/learning/introduction-to-open-science/#/id/598dd7835720060b1fcdf8b4)
+[Fuente original 1](https://www.slideshare.net/sjDCC/open-science-55575211)
+
+[Fuente original 2](https://www.fosteropenscience.eu/learning/introduction-to-open-science/#/id/598dd7835720060b1fcdf8b4)
 
 Posibles fuentes para iniciar:
 
