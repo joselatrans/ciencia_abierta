@@ -4,7 +4,7 @@ Cursos de Ciencia Abierta / Datos Abiertos CR
 
 Contenidos: 
 
-- ¿Qué es la ciencia abierta?
+- [¿Qué es la ciencia abierta?](https://github.com/malfaro2/ciencia_abierta/blob/master/%C2%BFQu%C3%A9%3F.Rmd#qu%C3%A9-es-la-ciencia-abierta)
 - ¿Cuáles elementos del ciclo de investigación pueden ser abiertos?
 - ¿Cómo hacer/practicar la ciencia abierta?
 - Casos y búsquedas de datos. 
