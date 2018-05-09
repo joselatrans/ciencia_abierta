@@ -8,7 +8,8 @@ Contenidos:
 - [¿Cuáles elementos del ciclo de investigación pueden ser abiertos?](https://github.com/malfaro2/ciencia_abierta/blob/master/%C2%BFCu%C3%A1les%3F.Rmd)
 - ¿Cómo hacer/practicar la ciencia abierta?
 - Casos y búsquedas de datos. 
-- Creación de perfil en orcid y la lista de predatory journals.
+- Creación de perfil en orcid.
+- Predatory journals. Lista: (https://predatoryjournals.com/journals/)
 
 [Fuente original 1](https://www.slideshare.net/sjDCC/open-science-55575211)
 
@@ -31,3 +32,5 @@ Posibles fuentes para iniciar:
 - [Open Science Framework -- paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5370619/)
 
 - [Open Science MOOC -- resources](https://opensciencemooc.eu/open-science-resources/)
+
+- [Predatory journals: una amenaza emergente para autores y editores de publicaciones biomédicas] (https://www.sciencedirect.com/science/article/pii/S1130147317300908)

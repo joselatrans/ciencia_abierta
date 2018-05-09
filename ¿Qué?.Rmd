@@ -12,6 +12,23 @@ De: Research Information Network, Open Science case studies.
 
 
 ## ¿Por qué abrir la ciencia?
+* Aumentar la visibilidad de su trabajo
+* Reducir costos de publicación
+** ¿Cómo?
+* Tener el control
+** Derecho de autor 
+** Creative commons
+* Recivir más fondos/permisos
+** Organizaciones de fondos que promueven la ciencia abierta 
+** Por ejemplo el SINAC pide un protocolo de comunicación de la investigación
+* Publicar en la revista que se quiere
+** La revistas no implican que no se puedan abrir datos
+** Preimpresiones
+** Ejemplo: Figshare (https://figshare.com/)
+* Conseguir un mejor trabajo o un ascenso laboral
+** Instituciones que promueven la ciencia abierta
+** ¿Qué pasa en Costa Rica?
+*** UNA
 
 - [Why Open Science? De Erin McKiernan](http://whyopenresearch.org/)
 - [Open Science to Open Innovation](https://www.fosteropenscience.eu/node/870)
