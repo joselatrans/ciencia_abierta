@@ -2,3 +2,6 @@
 
 
 ![Arcoiris de opciones](https://zenodo.org/record/1147025/files/rainbow-of-open-science-practices.png)
+
+## ¿Cuándo abrir cada elemento?
+
