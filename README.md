@@ -6,13 +6,13 @@ Contenidos:
 
 - [¿Qué es la ciencia abierta?](https://github.com/malfaro2/ciencia_abierta/blob/master/%C2%BFQu%C3%A9%3F.Rmd#qu%C3%A9-es-la-ciencia-abierta)
 - [¿Cuáles elementos del ciclo de investigación pueden ser abiertos?](https://github.com/malfaro2/ciencia_abierta/blob/master/%C2%BFCu%C3%A1les%3F.Rmd)
-- ¿Cómo hacer/practicar la ciencia abierta?
+- [¿Cómo hacer/practicar la ciencia abierta?](https://github.com/joselatrans/ciencia_abierta/blob/master/%C2%BFComo%3F)
 - Casos y búsquedas de datos. 
 - Creación de perfil en orcid.
 - Publicaciones:
-	- Revistas abiertas
-	- Predatory journals. Lista: (https://predatoryjournals.com/journals/)
-	- Preprints (Preimpresiones)
+	- Revistas abiertas.
+	- Predatory journals.
+	- Preimpresiones(Preprints).
 [Fuente original 1](https://www.slideshare.net/sjDCC/open-science-55575211)
 
 [Fuente original 2](https://www.fosteropenscience.eu/learning/introduction-to-open-science/#/id/598dd7835720060b1fcdf8b4)
