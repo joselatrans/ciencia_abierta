@@ -9,8 +9,10 @@ Contenidos:
 - ¿Cómo hacer/practicar la ciencia abierta?
 - Casos y búsquedas de datos. 
 - Creación de perfil en orcid.
-- Predatory journals. Lista: (https://predatoryjournals.com/journals/)
-
+- Publicaciones:
+	- Revistas abiertas
+	- Predatory journals. Lista: (https://predatoryjournals.com/journals/)
+	- Preprints (Preimpresiones)
 [Fuente original 1](https://www.slideshare.net/sjDCC/open-science-55575211)
 
 [Fuente original 2](https://www.fosteropenscience.eu/learning/introduction-to-open-science/#/id/598dd7835720060b1fcdf8b4)
